@@ -5,6 +5,10 @@ This component is a simple Login Screen Template for React Native Base.
 
 Feel free to contibute, fork, star, issues and so on. <3 spread love
 
+## Roadmap
+
+Fully functional Login Component with Firebase Auth.
+
 ## Preview
 ![Login Preview](https://github.com/Gismo1337/login-and-signup-screen-react-native-base-component/blob/main/assets/loginpreview.gif?raw=true)<br />
 
